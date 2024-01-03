@@ -1,0 +1,8 @@
+{
+	"settings": {
+		"import/docstyle": ["jsdoc", "tomdoc"]
+	},
+	"rules": {
+		"import/no-deprecated": "error"
+	}
+}
