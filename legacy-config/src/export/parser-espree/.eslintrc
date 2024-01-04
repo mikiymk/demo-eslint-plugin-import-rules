@@ -1,0 +1,6 @@
+{
+	"parser": "espree",
+	"rules": {
+		"import/export": "error"
+	}
+}
